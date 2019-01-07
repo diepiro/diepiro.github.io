@@ -765,7 +765,7 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20170515-wa0055-1280x720.jpg",
                 "active": false,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
@@ -777,7 +777,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Carteles a su medida, columnas y salientes de gran tamaño.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"index.html#form1-k\" data-toolbar=\"-mbrBtnMove\">Contactar</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-20181004-wa0005-1152x648.jpg",
@@ -794,7 +794,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Las mejores opciones en vinilos e impresiones para su local",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"index.html#form1-k\" data-toolbar=\"-mbrBtnMove\">Contactar</a>",
                 "overlayOpacity": "0.6"
               }
             ]
