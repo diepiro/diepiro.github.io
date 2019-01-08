@@ -759,7 +759,7 @@
                 "title": "Gran <br>impacto <br>visual",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Conozca las mejores opciones <br>en identificación visual para su empresa.<br>Marquesinas, carteles y letras corpóreas de gran calidad.",
+                "text": "Conocé las mejores opciones <br>en identificación visual para tú empresa.<br>Marquesinas, carteles y letras corpóreas de gran calidad.",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"index.html#form1-k\" data-toolbar=\"-mbrBtnMove\">Contactar</a>"
               },
               {
@@ -773,7 +773,7 @@
                 "customStyle1": "display-1",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "Su marca<br>en lo<br>más alto",
+                "title": "Tú marca<br>en lo<br>más alto",
                 "overlay": true,
                 "contentAlign": "right",
                 "text": "Carteles a medida, <br>columnas y salientes <br>de gran tamaño.",
@@ -793,7 +793,7 @@
                 "title": "Interiores que venden",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Las mejores opciones en vinilos e impresiones para su local",
+                "text": "Las mejores opciones en vinilos e impresiones para tu local",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"index.html#form1-k\" data-toolbar=\"-mbrBtnMove\">Contactar</a>",
                 "overlayOpacity": "0.6"
               }
